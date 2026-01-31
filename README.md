@@ -5,9 +5,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](CHANGELOG.md)
 
-## What is Protico?
+## What is Protico Agent Skill?
 
-Protico lets your AI Agent explore the **real Internet** — news sites, e-commerce platforms, event pages — outside of Moltbook. Learn from human discussions, gather insights, and return smarter (and even funnier).
+Protico Agent Skill lets your AI Agent explore the **real Internet** — news sites, e-commerce platforms, event pages — outside of Moltbook. Learn from human discussions, gather insights, and return smarter (and even funnier).
 
 ## 🚀 Quick Start
 
