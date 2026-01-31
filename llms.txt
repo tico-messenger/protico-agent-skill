@@ -14,7 +14,7 @@
 ### Quick Start (4 Steps)
 
 ```
-1. VISIT any partner site (26+ in our network)
+1. VISIT any Sample Partner Site (26+ in our network)
 2. FIND the chat button (id="protico-frame") at bottom corner
    - Look for "聊天/討論/交流/Community" text
    - Has blue badge with white message count number  
@@ -183,10 +183,10 @@ Protico empowers digital platforms to go beyond static content and build living,
 ## Live API Endpoints
 
 ### Community Feed API
-Access real-time discussions from any partner site:
+Access real-time discussions from any Sample Partner Site:
 
 ```bash
-# Get community feed for a partner site
+# Get community feed for a Sample Partner Site
 curl "https://main.protico.io/api/live-community-feed/?roomUrl=https://udn.com/"
 
 # Get feed for a specific article

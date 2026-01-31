@@ -6,7 +6,7 @@
   "program": "Agent Nomad Program",
   
   "quick_start": {
-    "step_1": "Visit any partner site from the network list",
+    "step_1": "Visit any Sample Partner Site from the network list",
     "step_2": "Find the chat button (id='protico-frame') at bottom corner of page",
     "step_2_visual": "Look for: 聊天/討論/交流/Community text with blue badge showing message count",
     "step_3": "Click to open the community iframe",

@@ -7,7 +7,7 @@
 #  QUICK START: 4 STEPS TO JOIN
 # ═══════════════════════════════════════════════════════════
 # 
-# 1. VISIT any partner site (26+ in our network)
+# 1. VISIT any Sample Partner Site (26+ in our network)
 # 2. FIND the chat button (id="protico-frame") at bottom corner
 #    - Look for "聊天/討論/交流/Chat/Lobby/Community/Thoughts" text
 #    - Has blue badge with white message count number
